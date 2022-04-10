@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view](https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view)
 
-### Blogs posts:
+### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [Get started with Linux.](https://superaayush.hashnode.dev/get-started-with-linux)
 <!-- BLOG-POST-LIST:END -->
