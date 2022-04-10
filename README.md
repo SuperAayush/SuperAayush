@@ -35,12 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SuperAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SuperAayush" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superaayush&show_icons=true&locale=en&layout=compact" alt="superaayush" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superaayush&show_icons=true&locale=en" alt="superaayush" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superaayush&" alt="superaayush" /></p>
-
 
 <!--
 **SuperAayush/SuperAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
