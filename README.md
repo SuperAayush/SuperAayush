@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SuperAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SuperAayush" /></a></p><br><br>
 
-![snake gif](https://github.com/SuperAayush/SuperAayush/blob/output/github-contribution-grid-snake.gif)
+![Snake Animation](https://github.com/SuperAayush/SuperAayush/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **SuperAayush/SuperAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
