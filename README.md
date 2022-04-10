@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayush&label=Profile%20views&color=0e75b6&style=flat" alt="superaayush" /> </p>
 
 <p align="left"> <a href="https://twitter.com/superaayush14" target="blank"><img src="https://img.shields.io/twitter/follow/superaayush14?logo=twitter&style=for-the-badge" alt="superaayush14" /></a> </p>
+<p align="left"> <a href="https://https://www.youtube.com/channel/UCN3XNEoDiCkfCMgogAQxaHA" target="blank"><img src="https://img.shields.io/youtube/follow/UCN3XNEoDiCkfCMgogAQxaHA?logo=youtube&style=for-the-badge" alt="Aayush Sharma" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
