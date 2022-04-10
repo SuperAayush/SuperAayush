@@ -3,13 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://superaayush.github.io/Portfolio/](https://superaayush.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [https://superaayush.hashnode.dev/](https://superaayush.hashnode.dev/)
-
-- 💬 Ask me about **Java | React | Redux | Javascript |**
-
-- 📫 How to reach me **aayusharma1401@gmail.com**
+- 💬 Ask me about **Java | React | Redux | Javascript **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view](https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view)
 
