@@ -1,4 +1,4 @@
-<p><img align="centre" alt="gif" src="https://github.com/SuperAayush/SuperAayush/blob/main/intro.gif" width="500" height="320" /></p>
+<p><img align="centre" alt="gif" src="https://github.com/SuperAayush/SuperAayush/blob/main/intro.gif" width="1000" height="220" /></p>
 
 ### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
