@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳❤️.</h3>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Java | React | Redux | Javascript **
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view](https://drive.google.com/file/d/1srIEXgi5-6OB7OxMFcxWpAw8E72ilpGs/view)
+<p><img align="centre" alt="gif" src="https://github.com/SuperAayush/SuperAayush/blob/main/intro.gif" width="500" height="320" /></p>
 
 ### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
