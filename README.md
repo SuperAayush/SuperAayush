@@ -28,6 +28,9 @@
 <h3 align="left">{Support}:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SuperAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SuperAayush" /></a></p><br><br>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuperAayush)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![Snake Animation](https://github.com/SuperAayush/SuperAayush/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Make it hard for your snake to eat greenary from your profile and let me give you some green squares: </h3>
