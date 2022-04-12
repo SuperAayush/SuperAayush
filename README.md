@@ -33,7 +33,7 @@
 <h3 align="left">Make it hard for your snake to eat greenary from your profile and let me give you some green squares: </h3>
 <p> 1. Raise an issue for (feat: add the blogs section) -> https://github.com/SuperAayush/Portfolio/issues/new </p>
 <p> 2. Raise an issue for (docs: create an Contribution.md file) -> https://github.com/SuperAayush/Zomato-Clone/issues/new </p>
-<p> 1. Raise an issue for (docs: create an issue template) -> https://github.com/SuperAayush/Zomato-Clone/issues/new </p>
+<p> 3. Raise an issue for (docs: create an issue template) -> https://github.com/SuperAayush/Zomato-Clone/issues/new </p>
 
 <!--
 **SuperAayush/SuperAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
