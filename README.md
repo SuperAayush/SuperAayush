@@ -30,6 +30,9 @@
 
 ![Snake Animation](https://github.com/SuperAayush/SuperAayush/blob/output/github-contribution-grid-snake.svg)
 
+<h3 align="left">Make it hard for your snake to eat greenary from your profile and let me give you some green squares: </h3>
+<p> [Raise an issue for -> feat: create an issue template](https://github.com/SuperAayush/Zomato-Clone/issues/new)
+
 <!--
 **SuperAayush/SuperAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
