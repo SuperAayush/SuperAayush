@@ -8,11 +8,11 @@
 ### 📺 Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
-- [Paryavarn](https://www.youtube.com/watch?v=nSw8ctWJsUY)
 - [Get started with Linux and basic Linux commands](https://www.youtube.com/watch?v=NRzojAzA9Rg)
 - [Introduction to Git and Github. Special thanks to @Kunal Kushwaha bhaiya.](https://www.youtube.com/watch?v=javxjP5HVZI)
 - [Microsoft Learn Student Ambassador 2022 Video.](https://www.youtube.com/watch?v=82jfVQ6Sv2E)
 - [SuperContributors &lpar;Team No-196&rpar; TECH-AHEAD DOTSLASH 5.0.](https://www.youtube.com/watch?v=xB-fAQWRCkY)
+- [About Us Video](https://www.youtube.com/watch?v=6gVjEZpAoAc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
