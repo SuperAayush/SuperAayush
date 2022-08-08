@@ -1,5 +1,4 @@
-![FUz0SJdUYAAlppx](https://user-images.githubusercontent.com/78820926/183526401-55f059a5-f69e-4fa2-b2b8-3db71a14dc01.jpeg)
-
+![600x200](https://user-images.githubusercontent.com/78820926/183526509-5c2e7000-5333-4159-813a-45b1c0345678.jpeg)
 
 ### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
