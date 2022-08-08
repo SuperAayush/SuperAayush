@@ -1,4 +1,4 @@
-![600x200](https://user-images.githubusercontent.com/78820926/183526509-5c2e7000-5333-4159-813a-45b1c0345678.jpeg)
+![C4AF330C-1ADE-4F0B-ACBA-F30BB7EA53FB_1_201_a](https://user-images.githubusercontent.com/78820926/183526901-6ae12a12-1415-4e47-ba4e-ae9209f49912.jpeg)
 
 ### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
