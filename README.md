@@ -30,12 +30,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuperAayush)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br><br><h3 align="left">🎁 Gift for you:</h3>
-
-<h3 align="left">Green Squares: </h3>
-<p> 1. Raise an issue for (feat: add the blogs section) -> https://github.com/SuperAayush/Portfolio/issues/new </p>
-<p> 2. Raise an issue for (docs: create an Contribution.md file) -> https://github.com/SuperAayush/Zomato-Clone/issues/new </p>
-<p> 3. Raise an issue for (docs: create an issue template) -> https://github.com/SuperAayush/Zomato-Clone/issues/new </p>
 
 <!--
 **SuperAayush/SuperAayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
