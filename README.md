@@ -8,6 +8,7 @@
 ### 📺 Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
+- [Achieving Google Cloud&#39;s DORA with DevLake | All Thing Cloud Native Meetup](https://www.youtube.com/watch?v=mnNLVGMeLaA)
 - [Get started with Linux and basic Linux commands](https://www.youtube.com/watch?v=NRzojAzA9Rg)
 - [Introduction to Git and Github. Special thanks to @Kunal Kushwaha bhaiya.](https://www.youtube.com/watch?v=javxjP5HVZI)
 - [Microsoft Learn Student Ambassador 2022 Video.](https://www.youtube.com/watch?v=82jfVQ6Sv2E)
