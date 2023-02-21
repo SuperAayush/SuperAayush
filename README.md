@@ -3,7 +3,7 @@
 
 ### 📝 Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [List of my blogs](https://linktr.ee/SuperAayush)
+- [Get started with Linux.](https://superaayush.hashnode.dev/get-started-with-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos:
